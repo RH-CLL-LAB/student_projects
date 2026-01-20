@@ -1,4 +1,4 @@
-# author: Emma Siig
+# Author: Emma Siig
 #
 
 uploaded to GitHub January 20th, 2026
